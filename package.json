@@ -1,0 +1,13 @@
+{
+  "name": "belajar-import-module-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<nipeharefa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^13.0.0"
+  },
+  "scripts": {
+    "start": "http-server ."
+  }
+}
